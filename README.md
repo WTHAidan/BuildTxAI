@@ -1,4 +1,4 @@
-# AirSwap Trading Interface
+# RLUSD Trading Interface
 
 A decentralized trading interface leveraging Avalanche C-Chain and Flare Network for secure, AI-enhanced trading experiences.
 
@@ -18,7 +18,7 @@ const BACKEND_API = 'https://github.com/vickytoriah/BuildTransaction_AI';
      - Amount
      - Slippage tolerance
    - System verifies against predefined limits:
-     - Max balance: 10 AVAX
+     - Max balance: 0.1 ETH
      - Max slippage: 1.5%
    ```typescript
    // Backend: https://github.com/vickytoriah/BuildTransaction_AI/
